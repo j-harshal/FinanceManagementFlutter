@@ -1,0 +1,25 @@
+# This is a generated file; do not edit or check into version control.
+cloud_firestore=/Users/j.harshal/.pub-cache/hosted/pub.dev/cloud_firestore-3.5.1/
+cloud_firestore_web=/Users/j.harshal/.pub-cache/hosted/pub.dev/cloud_firestore_web-2.8.10/
+firebase_auth=/Users/j.harshal/.pub-cache/hosted/pub.dev/firebase_auth-3.11.2/
+firebase_auth_web=/Users/j.harshal/.pub-cache/hosted/pub.dev/firebase_auth_web-4.6.1/
+firebase_core=/Users/j.harshal/.pub-cache/hosted/pub.dev/firebase_core-1.24.0/
+firebase_core_web=/Users/j.harshal/.pub-cache/hosted/pub.dev/firebase_core_web-1.7.3/
+firebase_storage=/Users/j.harshal/.pub-cache/hosted/pub.dev/firebase_storage-10.3.11/
+firebase_storage_web=/Users/j.harshal/.pub-cache/hosted/pub.dev/firebase_storage_web-3.3.9/
+flutter_facebook_auth=/Users/j.harshal/.pub-cache/hosted/pub.dev/flutter_facebook_auth-3.5.7/
+flutter_facebook_auth_web=/Users/j.harshal/.pub-cache/hosted/pub.dev/flutter_facebook_auth_web-2.6.0+2/
+flutter_plugin_android_lifecycle=/Users/j.harshal/.pub-cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.9/
+google_sign_in=/Users/j.harshal/.pub-cache/hosted/pub.dev/google_sign_in-6.1.4/
+google_sign_in_android=/Users/j.harshal/.pub-cache/hosted/pub.dev/google_sign_in_android-6.1.18/
+google_sign_in_ios=/Users/j.harshal/.pub-cache/hosted/pub.dev/google_sign_in_ios-5.6.2/
+google_sign_in_web=/Users/j.harshal/.pub-cache/hosted/pub.dev/google_sign_in_web-0.12.0+2/
+image_picker=/Users/j.harshal/.pub-cache/hosted/pub.dev/image_picker-0.8.7+4/
+image_picker_android=/Users/j.harshal/.pub-cache/hosted/pub.dev/image_picker_android-0.8.6+7/
+image_picker_for_web=/Users/j.harshal/.pub-cache/hosted/pub.dev/image_picker_for_web-2.1.12/
+image_picker_ios=/Users/j.harshal/.pub-cache/hosted/pub.dev/image_picker_ios-0.8.7+3/
+path_provider=/Users/j.harshal/.pub-cache/hosted/pub.dev/path_provider-2.0.14/
+path_provider_android=/Users/j.harshal/.pub-cache/hosted/pub.dev/path_provider_android-2.0.25/
+path_provider_foundation=/Users/j.harshal/.pub-cache/hosted/pub.dev/path_provider_foundation-2.2.2/
+path_provider_linux=/Users/j.harshal/.pub-cache/hosted/pub.dev/path_provider_linux-2.1.10/
+path_provider_windows=/Users/j.harshal/.pub-cache/hosted/pub.dev/path_provider_windows-2.1.5/

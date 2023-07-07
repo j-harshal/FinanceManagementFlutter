@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "820494042083",
+    "project_id": "khatabook-87286",
+    "storage_bucket": "khatabook-87286.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820494042083:android:b806dc9aad235e882956d6",
+        "android_client_info": {
+          "package_name": "com.example.khatabook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820494042083-ss3nqk460op80c1i3od4jql4bhd85l62.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.khatabook",
+            "certificate_hash": "2873d0cac0e4a8aaf2ae4763460937d71cedf99d"
+          }
+        },
+        {
+          "client_id": "820494042083-eubutgidc3gu5q19uec9pg575rercj5o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVL3kDBkdF_QlpPo55DpcZvkAo7cn9nws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820494042083-eubutgidc3gu5q19uec9pg575rercj5o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
